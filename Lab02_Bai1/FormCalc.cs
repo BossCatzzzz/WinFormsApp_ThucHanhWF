@@ -16,7 +16,7 @@ namespace Lab02_Bai1
         {
             InitializeComponent();
         }
-
+        //bla bla bla....
         private void Calculator(object bt, EventArgs e)
         {
             tbKetQua.Text = "";
